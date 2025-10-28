@@ -1,6 +1,6 @@
 <template>
   <div id="app-container">
-    <h1>Reconocimiento Facial con Face Embeddings en Vue.js</h1>
+    <h1>SMARTLEND POR JP</h1>
 
     <div v-if="loading" class="loading-overlay">
       <div class="spinner"></div>
